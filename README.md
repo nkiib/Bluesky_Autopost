@@ -2,7 +2,7 @@
 
 このリポジトリでは、[Nishiki-Hub](https://nishikiout.net)のRSSフィードを実行時に自動でBlueskyに投稿することができます。
 
-[Bluesky]（https://bsky.app/）がとりあえずデフォルトになっていますが、post.pyに適切に設定すれば、他のAT Protocolのサービスでも利用可能なコードになっているはずです。
+[Bluesky](https://bsky.app/)がとりあえずデフォルトになっていますが、post.pyに適切に設定すれば、他のAT Protocolのサービスでも利用可能なコードになっているはずです。
 
 運用予定アカウントは[nishikiout.net](https://bsky.app/profile/nishikiout.net)です。
 
