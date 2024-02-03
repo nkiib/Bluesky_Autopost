@@ -8,7 +8,7 @@ def main():
 
     
 
-    for entry in entries:
+    for entry in reversed(entries):
         post.post(entry)
 
     with open("latest_id.txt","w",encoding='utf-8') as f:
